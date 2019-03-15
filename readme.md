@@ -25,10 +25,10 @@ Initial
 ![init](./figures/00_init.png)
 
 AMCL convergence
-![converge](./figures/01_convergence)
+![converge](./figures/01_convergence.png)
 
 Parking in a new room
-![parking](./figues/03_parking)
+![parking](./figues/03_parking.png)
 
 ## Other Worlds
 
