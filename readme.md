@@ -28,7 +28,7 @@ AMCL convergence
 ![converge](./figures/01_convergence.png)
 
 Parking in a new room
-![parking](./figues/03_parking.png)
+![parking](./figures/03_parking.png)
 
 ## Other Worlds
 
